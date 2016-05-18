@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  LevelThreeGroup
+//
+//  Created by mydical on 16/5/17.
+//  Copyright © 2016年 yan. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#define screenW [UIScreen mainScreen].bounds.size.width
+#define viewH 60
+
+#endif /* PrefixHeader_pch */
